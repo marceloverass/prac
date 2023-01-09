@@ -1,0 +1,34 @@
+* {
+    font-family: Arial;
+}
+
+.input {
+    display: block;
+    background-color: rgb(224, 223, 223);
+    border: none;
+    padding: 12px;
+    width: 270px;
+    margin-bottom: 10px;
+    color: rgb(102, 93, 93);
+    font-size: 15px;
+}
+
+.btn1, .btn2 {
+    padding: 13px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.btn1 {
+    background-color: #000;
+    color: #FFF;
+    width: 130px;
+    font-size: 15px;
+}
+
+.btn2 {
+    background-color: rgb(224, 223, 223);
+    width: 150px;
+    font-size: 15px;
+}

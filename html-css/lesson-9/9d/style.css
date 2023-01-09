@@ -1,0 +1,8 @@
+.container {
+    background-color: rgb(39, 36, 36);
+    color: #FFF;
+    width: 500px;
+    height: 120px;
+    padding: 12px;
+    font-family: Arial;
+}

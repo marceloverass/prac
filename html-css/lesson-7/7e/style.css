@@ -1,0 +1,8 @@
+.search__bar {
+    padding: 7px;
+    width: 540px;
+    border: none;
+    padding-left: 17px;
+    box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.4);
+    border-radius: 270px;
+}

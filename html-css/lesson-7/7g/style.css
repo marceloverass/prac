@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600&display=swap');
+
+* {
+    background-color: rgb(63, 62, 62);
+    font-family: 'Syne';
+}
+
+.twitter-c {
+    vertical-align: middle;
+    background-color: #FFF;
+    padding: 20px;
+    width: 500px;
+    border-radius: 12px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.twitter-c__img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+.twitter-c__input {
+    vertical-align: middle;
+    background-color: #FFF;
+    border: none;
+    color: rgb(39, 38, 38);
+    font-size: 20px;
+    outline: none;
+    margin-left: 9px;
+}
+
+.twitter-c__button {
+    vertical-align: middle;
+    background-color: #1A8CD8;
+    color: #FFF;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    width: 120px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left: 60px;
+    cursor: pointer;
+    transition: background-color 0.150s;
+}
+
+.twitter-c__button:hover {
+    background-color: #1181cc;
+}
+
+.twitter-c__button:active {
+    background-color: #086eb3;
+}

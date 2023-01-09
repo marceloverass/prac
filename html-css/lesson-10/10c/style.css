@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+img {
+    width: 250px;
+}
+
+.box-video,.box-video2, .box-video3 {
+    margin: 25px;
+}
+
+.thumbnail {
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.paragraphs {
+    display: inline-block;
+    width: 200px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.p1 {
+    font-family: Arial;
+    font-weight: 600;
+    margin-bottom: 12px;
+    font-size: 17px;
+}
+
+.p2 {
+    margin-bottom: 5px;
+}
+
+.p2, .p3 {
+    color: rgb(96, 96, 96);
+} 

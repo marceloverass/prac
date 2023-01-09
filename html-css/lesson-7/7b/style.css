@@ -1,0 +1,20 @@
+.img__block .img__description {
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img__block .img__migos {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    object-position: right;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}

@@ -1,0 +1,42 @@
+.divs {
+    display: flex;
+}
+
+.div1 {
+    width: 200px;
+}
+
+.div2 {
+    width: 75px;
+}
+
+.divs2 {
+    display: flex;
+    margin-top: 30px;
+}
+
+.item1 {
+    width: 50px;
+}
+
+.item2 {
+    flex: 1;
+}
+
+.item3 {
+    width: 75px;
+}
+
+.divs3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.divs4 {
+    display: flex;
+    width: 500px;
+    height: 90px;
+    border: solid 1px black;
+    justify-content: space-between;
+    align-items: center;
+}

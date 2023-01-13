@@ -1,0 +1,58 @@
+img {
+    width: 60px;
+    border-radius: 50px;
+}
+
+.container {
+    background-color: #FFF;
+    width: 600px;
+    height: 180px;
+    padding: 0px;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 6px;
+    box-shadow: 0 0 3px 0.5px rgba(0, 0, 0, 0.4);
+}
+
+.img, .vertical {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+    margin-top: 15px;
+}
+
+.vertical {
+    margin-left: 10px;
+    width: 500px;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chewy {
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 18px;
+    
+}
+
+.bold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 0;
+}
+
+.inbox {
+    margin-left: 13px;
+    color: rgb(155, 152, 152);
+}
+
+.hour {
+    color: rgb(155, 152, 152);
+}

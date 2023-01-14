@@ -1,0 +1,30 @@
+.box {
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.close-button {
+    background-color: #000;
+    color: #FFF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -15px;
+    left: -15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.time-video {
+    
+}
